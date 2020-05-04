@@ -1,5 +1,5 @@
 const apiKey = '86c22415637a4f27b137403cc0c3076a';
-const defaultSource = 'the-new-york-times';
+const defaultSource = 'cnn';
 const sourceSelector = document.querySelector('#sources');
 const newsArticles = document.querySelector('main');
 
