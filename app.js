@@ -1,3 +1,5 @@
+// Change this info with yours
+
 const apiKey = '86c22415637a4f27b137403cc0c3076a';
 const defaultSource = 'cnn';
 const sourceSelector = document.querySelector('#sources');
